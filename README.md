@@ -45,9 +45,9 @@ visit <https://localhost:8000> on your pc
 ## Contributors
 
 
-- [Deepak Raj](https://github.com/shubham5351) - Django, ML, Frontend
-- [Shubham Pawar](https://github.com/shubham5351) - Maintainer, ML Modeling and Analyis
-- [Deepak Kumar](https://github.com/dkpcs92) - ML Modeling and analysis
+- shantanu  - Django, ML, Frontend
+- Shantanu- Maintainer, ML Modeling and Analyis
+- Garima kumari- ML Modeling and analysis
 - []() - Frontend Part
 
 ## Contributing
@@ -70,6 +70,6 @@ For open source projects,Under MIT License.
 
 - Project : Student Performance Prediction
 - Author  : Py-Contributors
-- Maintainer : Shubham Pawar
+- Maintainer : SHANTANU AND GARIMA
 - Language : Python
 - Github : <https://github.com/Py-Contributors/>
